@@ -1,2 +1,2 @@
 # House-sale-price-prediction
-Explored Multiple linear regression technique to predict house sale price.
+Explored multiple linear regression techniques to predict house sale price.
